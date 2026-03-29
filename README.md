@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Prakhar!<br><br>🎓 Computer Science & Data Analytics Student @ IIT Patna<br>💻 Passionate about Full Stack Development, Backend Systems & Data Analytics<br>🚀 Turning ideas into scalable applications & data-driven solutions
+👋 Hi there, I'm Prakhar!<br><br>🎓 Computer Science & Data Analytics Student @ IIT Patna<br>💻 Passionate about Full Stack Development, Backend Systems,DSA & Data Analytics<br>🚀 Turning ideas into scalable applications & data-driven solutions
 
 
 ## 🌐 Socials:
